@@ -1,4 +1,4 @@
 baseURL = "http://community-vote.codeislaw.co/"
 languageCode = "en-us"
 title = "Community Vote"
-theme = 'aether'
+theme = 'aether-simple'
