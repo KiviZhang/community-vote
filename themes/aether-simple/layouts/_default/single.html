@@ -2,7 +2,7 @@
 <html dir="ltr">
   {{ partial "head.html" . }}
   <body class="single-body">
-    <nav>&nbsp;</nav>
+    {{ partial "nav-bar.html" . }}
     <main class="content side-text-padding">
       <article class="post {{ if ne .Params.dropcap false }}dropcase{{ end }}">
         <header class="post-header">
