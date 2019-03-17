@@ -4,8 +4,6 @@
   <body class="list-body">
     {{ partial "nav-bar.html" . }}
     <main class="card-container side-gutter">
-      <header class="list-header">
-      </header>
       {{ $paginator := .Paginate (where .Pages "Params.displayinlist" "!=" false) -}}
       {{- range $paginator.Pages -}}
         {{ .Render "li" }}
