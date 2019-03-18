@@ -11,7 +11,7 @@ draft: false
 # **<font color="#03a9f4"><p align="center">How to use the Community Vote DApp?</p></font>**
 
 <div style="align: center">
-<img src="posts/20190201-tutorials-01.png"/>
+<img src="/posts/20190201-tutorials-01.png"/>
 </div>
 
 
@@ -39,25 +39,25 @@ There are two ways to vote in CMT Wallet
 * Open CMT Wallet, choose "Scan", click on “ALBUM”, and scan the QR code image.
 
 <div style="align: center">
-<img src="posts/20190201-tutorials-02.png"/>
+<img src="/posts/20190201-tutorials-02.png"/>
 </div>
 
 * Click "Confirm" to enter the CommunityVote DApp.
 
 <div style="align: center">
-<img src="posts/20190201-tutorials-03.png"/>
+<img src="/posts/20190201-tutorials-03.png"/>
 </div>
 
 * Select an option and submit.
 
 <div style="align: center">
-<img src="posts/20190201-tutorials-04.png"/>
+<img src="/posts/20190201-tutorials-04.png"/>
 </div>
 
 * Review the very small gas fee, enter the password to pay the gas fee, and complete.
 
 <div style="align: center">
-<img src="posts/20190201-tutorials-05.png"/>
+<img src="/posts/20190201-tutorials-05.png"/>
 </div>
 
 You can also refer to this [Youtube Video](https://www.youtube.com/watch?v=b9Gv_-fqBik) to see how to vote.
