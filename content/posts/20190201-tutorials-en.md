@@ -10,11 +10,6 @@ draft: false
 
 # **<font color="#03a9f4"><p align="center">How to use the Community Vote DApp?</p></font>**
 
-<div style="align: center">
-<img src="/posts/20190201-tutorials-01.png"/>
-</div>
-
-
 The CyberMiles public blockchain has a unique governance structure. We have a transparent process for validator nodes to vote on on-chain governance issues such as software upgrades, stolen fund recovery, economic parameter changes etc. 
 
 

@@ -9,10 +9,6 @@ draft: false
 
 # **<font color="#03a9f4"><p align="center">Community Vote DApp 使用教程</p></font>**
 
-<div style="align: center">
-<img src="/posts/20190201-tutorials-01.png"/>
-</div>
-
 尊重社区的意见，倾听社区的合理建议。为此，CyberMiles 基金会开发了Community Vote DApp，便于CMT的持有者参与CyberMiles公链的建设中，共同使CyberMiles发展地更好。这也将是社区自治的良好开端。
 
 
