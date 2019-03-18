@@ -10,7 +10,7 @@ draft: false
 # **<font color="#03a9f4"><p align="center">Community Vote DApp 使用教程</p></font>**
 
 <div style="align: center">
-<img src="posts/20190201-tutorials-01.png"/>
+<img src="/posts/20190201-tutorials-01.png"/>
 </div>
 
 尊重社区的意见，倾听社区的合理建议。为此，CyberMiles 基金会开发了Community Vote DApp，便于CMT的持有者参与CyberMiles公链的建设中，共同使CyberMiles发展地更好。这也将是社区自治的良好开端。
@@ -32,23 +32,23 @@ CMT Wallet是使用Community Vote DApp进行投票的唯一工具，请先下载
 *打开CMT Wallet，”扫一扫”，选择右上角的本地相册，扫描二维码图片；
 
 <div style="align: center">
-<img src="posts/20190201-tutorials-06.png"/>
+<img src="/posts/20190201-tutorials-06.png"/>
 </div>
 
 *点击”确认”，进入CommunityVote DApp；
 
 <div style="align: center">
-<img src="posts/20190201-tutorials-07.png"/>
+<img src="/posts/20190201-tutorials-07.png"/>
 </div>
 
 *选择选项，提交选项；
 
 <div style="align: center">
-<img src="posts/20190201-tutorials-08.png"/>
+<img src="/posts/20190201-tutorials-08.png"/>
 </div>
 
 *支付gas费，输入密码，完成投票。
 
 <div style="align: center">
-<img src="posts/20190201-tutorials-09.png"/>
+<img src="/posts/20190201-tutorials-09.png"/>
 </div>
