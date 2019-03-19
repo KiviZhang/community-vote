@@ -5,3 +5,4 @@ theme = 'aether-simple'
 [params]
 brand = "Community Vote"
 description = "DApps for CyberMiles community governance"
+homeimg ="img/back-arrow.png"
