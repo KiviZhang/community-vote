@@ -1,4 +1,7 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "http://community-vote.codeislaw.co/"
 title = "Community Vote"
-theme = 'aether'
+theme = 'aether-simple'
+
+[params]
+brand = "Community Vote"
+description = "DApps for CyberMiles community governance"
