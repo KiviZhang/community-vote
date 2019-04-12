@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community Vote</title>
+    <link>http://community-vote.codeislaw.co/</link>
+    <description>Recent content on Community Vote</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 12 Apr 2019 16:31:36 +0800</lastBuildDate>
+    
+        <atom:link href="http://community-vote.codeislaw.co/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to use the Community Vote DApp?</title>
+      <link>http://community-vote.codeislaw.co/posts/20190201-tutorials-en/</link>
+      <pubDate>Fri, 01 Feb 2019 14:20:36 +0800</pubDate>
+      
+      <guid>http://community-vote.codeislaw.co/posts/20190201-tutorials-en/</guid>
+      <description>Use the CMT Wallet to participate in the community governance votes</description>
+    </item>
+  </channel>
+</rss>

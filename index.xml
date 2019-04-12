@@ -1,0 +1,83 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community Vote</title>
+    <link>http://community-vote.codeislaw.co/</link>
+    <description>Recent content on Community Vote</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 12 Apr 2019 16:31:36 +0800</lastBuildDate>
+    
+        <atom:link href="http://community-vote.codeislaw.co/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Staking via the CMT Wallet?Your vote</title>
+      <link>http://community-vote.codeislaw.co/posts/20190412-stake-en/</link>
+      <pubDate>Fri, 12 Apr 2019 16:31:36 +0800</pubDate>
+      
+      <guid>http://community-vote.codeislaw.co/posts/20190412-stake-en/</guid>
+      <description>Make your choice on Apr,14</description>
+    </item><item>
+      <title>CMT 월렛 스테이킹을 오픈해야합니까</title>
+      <link>http://community-vote.codeislaw.co/posts/20190412-stake-ko/</link>
+      <pubDate>Fri, 12 Apr 2019 15:17:36 +0800</pubDate>
+      
+      <guid>http://community-vote.codeislaw.co/posts/20190412-stake-ko/</guid>
+      <description>투표는 4월14일 부터 시작합니다</description>
+    </item><item>
+      <title>你是否支持尽快开放CMT Wallet参与权益投票？社区投票即将开始</title>
+      <link>http://community-vote.codeislaw.co/posts/20190412-stake-zh/</link>
+      <pubDate>Fri, 12 Apr 2019 15:17:36 +0800</pubDate>
+      
+      <guid>http://community-vote.codeislaw.co/posts/20190412-stake-zh/</guid>
+      <description>投票将于4月14日开始</description>
+    </item><item>
+      <title>Should the CyberMiles Foundation withdraw its stakes from validators?</title>
+      <link>http://community-vote.codeislaw.co/posts/20190224-stake-en/</link>
+      <pubDate>Sun, 24 Feb 2019 15:17:36 +0800</pubDate>
+      
+      <guid>http://community-vote.codeislaw.co/posts/20190224-stake-en/</guid>
+      <description>The results are in: Yes</description>
+    </item><item>
+      <title>基金会要撤销对验证人的权益投票吗？</title>
+      <link>http://community-vote.codeislaw.co/posts/20190224-stake-zh/</link>
+      <pubDate>Sun, 24 Feb 2019 15:17:36 +0800</pubDate>
+      
+      <guid>http://community-vote.codeislaw.co/posts/20190224-stake-zh/</guid>
+      <description>投票结果：撤销</description>
+    </item><item>
+      <title>Which of the following Spring Festival movies do you like best? [Test Vote]</title>
+      <link>http://community-vote.codeislaw.co/posts/20190203-movies-en/</link>
+      <pubDate>Sun, 03 Feb 2019 15:17:36 +0800</pubDate>
+      
+      <guid>http://community-vote.codeislaw.co/posts/20190203-movies-en/</guid>
+      <description>The results are in: Wondering Earth</description>
+    </item><item>
+      <title>春节档电影，你最期待哪一个？【测试投票】</title>
+      <link>http://community-vote.codeislaw.co/posts/20190203-movies-zh/</link>
+      <pubDate>Sun, 03 Feb 2019 15:17:36 +0800</pubDate>
+      
+      <guid>http://community-vote.codeislaw.co/posts/20190203-movies-zh/</guid>
+      <description>投票结果：流浪地球</description>
+    </item><item>
+      <title>FAQ</title>
+      <link>http://community-vote.codeislaw.co/posts/20190201-faq-en/</link>
+      <pubDate>Fri, 01 Feb 2019 14:31:36 +0800</pubDate>
+      
+      <guid>http://community-vote.codeislaw.co/posts/20190201-faq-en/</guid>
+      <description>More information about the Community Vote DApp</description>
+    </item><item>
+      <title>投票常见问题解答</title>
+      <link>http://community-vote.codeislaw.co/posts/20190201-faq-zh/</link>
+      <pubDate>Fri, 01 Feb 2019 14:31:36 +0800</pubDate>
+      
+      <guid>http://community-vote.codeislaw.co/posts/20190201-faq-zh/</guid>
+      <description>有问题就戳进来</description>
+    </item><item>
+      <title>Community Vote DApp使用教程</title>
+      <link>http://community-vote.codeislaw.co/posts/20190201-tutorials-zh/</link>
+      <pubDate>Fri, 01 Feb 2019 14:20:36 +0800</pubDate>
+      
+      <guid>http://community-vote.codeislaw.co/posts/20190201-tutorials-zh/</guid>
+      <description>如何使用CMT Wallet 参与社区投票</description>
+    </item>
+  </channel>
+</rss>

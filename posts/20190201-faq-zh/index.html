@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html dir="ltr">
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>投票常见问题解答 &middot; Community Vote</title>
+  <meta name="description" content="有问题就戳进来" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+  <link rel="stylesheet" href="http://community-vote.codeislaw.co/css/main.min.css" />
+  
+  
+</head>
+  <body class="single-body">
+    <nav>&nbsp;</nav>
+
+    <main class="content side-text-padding">
+      <article class="post dropcase">
+        <header class="post-header">
+        	<h1 class="post-title">投票常见问题解答</h1>
+          <p class="post-date">Started on <time datetime="2019-02-01">Feb 1, 2019</time></p>
+        </header>
+        
+        <picture class="post-figure">
+            
+            <source srcset="http://community-vote.codeislaw.co/posts/20190201-faq-01.jpg">
+          <img src="http://community-vote.codeislaw.co/posts/20190201-faq-01.jpg" >
+        </picture>
+        
+        
+
+<h1 id="p-align-center-投票常见的问题-p"><strong><p align="center">投票常见的问题</p></strong></h1>
+
+<p><strong><font color="#03a9f4">Q:为什么必须用 CMT Wallet 投票？</font></strong></p>
+
+<p>A: 投票机制为一个CMT等于一票，并且一个CMT只能投一次，需要保证每一票都是这个CMT的持有者投的。所以，每次投票都要用CMT持有者的私钥进行签名，并且记录在链上。CMT Wallet 是进行这种投票签名的最简单工具。</p>
+
+<p><strong><font color="#03a9f4">Q:为什么不能直接用CMT Cube投票？</font></strong></p>
+
+<p>A：CMT Cube有帐号的私钥，但是没有一个支持投票签名的用户界面。所以，我们需要把CMT Cube的私钥/助记词导入 CMT Wallet，然后由 CMT Wallet 使用私钥对投票进行签名。</p>
+
+<p>将CMT Cube的私钥/助记词导入CMT Wallet的具体方式可参见<a href="https://cybermiles.cdn.prismic.io/cybermiles%2F9b14dfc7-679f-46e1-a435-1e45aaea796e_import+by+mnemonic.pdf">《如何通过助记词把CMT Cube的CMT导入到CMT Wallet》</a>及<a href="https://cybermiles.cdn.prismic.io/cybermiles%2F8d7a05ba-3db6-45a4-82fb-204a08d6b317_import+by+private+key.pdf">《如何通过私钥把CMT Cube的CMT导入到CMT Wallet》</a>，<strong>导入过程中请一定记住保护好助记词和私钥</strong>。</p>
+
+<p>由于CMT Cube的CMT处于权益投票状态，不可使用，为保证投票顺利进行，请记得在CMT Cube的地址内预存1个CMT用以支付gas费。</p>
+
+<p><strong><font color="#03a9f4">Q:为什么投票需要付 gas ？</font></strong></p>
+
+<p>A:Community Vote DApp是构建在CyberMiles公链上的，你的投票将由超级节点节点进行验证，并上传同步到区块链网络，因此需要向超级节点支付gas 费。</p>
+
+<p>此外，Lity 语言正在进行新的功能开发，届时将支持合约创建者支付gas 费，就无需用户支付gas 费了。</p>
+
+<p><strong><font color="#03a9f4">Q:将 CMT Cube 的 CMTs 导入 CMT Wallet 是否会解除权益投票？</font></strong></p>
+
+<p>A：不会的。导入之后，CMT Cube 与 CMT Wallet 会指向同一个链上账号。你的CMT在那个账号里面没有动过，不影响权益投票。</p>
+
+<p><strong><font color="#03a9f4">Q:CMT Wallet 的多钱包如何转换？</font></strong></p>
+
+<p>A: 在”我-管理钱包”页面，可以选定不同的钱包进行投票操作。</p>
+
+<p><strong><font color="#03a9f4">Q:为什么我钱包里有大于1000个CMT，投票时会出现“出现错误，刷新后再试”的提示？</font></strong></p>
+
+<p>A：如果您钱包地址的CMT全部处于权益投票状态，那么就没有办法支付投票所需的gas费，就会出现这种情况。</p>
+
+<p>您向该地址转账1个CMT，用来支付gas费，就可以成功投票了！</p>
+
+      </article>
+    </main>
+    <nav class="end-nav side-padding">
+      <a ontouchstart="cardPressed.call(this)" ontouchend="cardReleased.call(this)" ontouchmove="cardReleased.call(this)" 
+  href="javascript:history.back()" class="card home-card" style="background-image: url( http://community-vote.codeislaw.co/img/grey-cloud.jpg )" rel="bookmark" >
+    &larr;
+</a>
+
+    </nav>
+    <footer>
+    
+</footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/highlight.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.js" integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/contrib/auto-render.min.js" integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous"
+    onload="renderMathInElement(document.body);"></script>
+<script src="http://community-vote.codeislaw.co/js/core.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+  </body>
+</html>
